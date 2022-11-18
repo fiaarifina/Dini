@@ -1,0 +1,39 @@
+body{
+    background-color: blanchedalmond ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 30pt;
+}
+#id2{
+    color:black;
+}
+.kelas2{
+    color: black;
+}
+/* Style all font awesome icons */
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* instagram */
+.fa-instagram {
+  background: #e935d1;
+  color: white;
+} 
+/* whatsapp */
+.fa-whatsapp {
+  background: #0eca07;
+  color: white;
+}
